@@ -27,3 +27,8 @@
 \usepackage{tabularx}
 \usepackage{multirow}
 \usepackage{listings}
+\lstset{
+	frame = single,
+	breaklines = true,
+	captionpos = t,
+}
